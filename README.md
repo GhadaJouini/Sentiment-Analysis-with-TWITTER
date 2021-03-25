@@ -2,8 +2,6 @@
 
 Do you know the PyTennessee conference? 
 PyTennessee is a yearly regional Python conference held every February in Nashville for more informatin visit the website https://2020.pytennessee.org/.
-![image](C:\Users\DELL\Desktop)
-
 
 The project is devided into two main steps:
 
